@@ -28,8 +28,9 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-### a.html
 ```
+a.html
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -310,10 +311,9 @@ Publish the website in the given URL.
 </body>
 
 </html>
-```
 
-### b.html
-```
+b.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -488,9 +488,9 @@ Publish the website in the given URL.
                
 </body>
 </html>
-```
-### c.html
-```
+
+c.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -675,9 +675,9 @@ Publish the website in the given URL.
                
 </body>
 </html
-```
-### d.html
-```
+
+d.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

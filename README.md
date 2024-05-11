@@ -875,6 +875,10 @@ Publish the website in the given URL.
     </html>
 ```
 ## OUTPUT:
+![WhatsApp Image 2024-05-10 at 22 22 56_7e2c3d03](https://github.com/23012925/softweb/assets/150931013/a62b9d67-ed7e-4961-9ecd-f0c3036c5455)
+![WhatsApp Image 2024-05-10 at 22 23 22_e70b7b3b](https://github.com/23012925/softweb/assets/150931013/ac389dc3-93ff-495c-badc-84bf3d0e7cfe)
+![WhatsApp Image 2024-05-10 at 22 23 30_34f2c0e1](https://github.com/23012925/softweb/assets/150931013/8bcd6a52-227d-4bf1-9447-adc5448b823f)
+![WhatsApp Image 2024-05-10 at 22 23 56_35f6684d](https://github.com/23012925/softweb/assets/150931013/4f55b2e4-ecd2-44ee-9cd6-1546942bb636)
 
 
 ## RESULT:
